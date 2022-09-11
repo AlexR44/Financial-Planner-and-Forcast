@@ -1,4 +1,4 @@
-# Financial-Planner-and-Forcast
+# Financial-Planner-and-Forecast
 ## Part 1: Financial Planner for Emergencies
 This section creates personal financial planner for emergencies assuming the following:
 * The average monthly household income is $12,000.
